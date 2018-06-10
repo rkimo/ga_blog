@@ -6,12 +6,12 @@ comments: true
 title:  "Top SEO Trends To Follow"
 date:   2018-05-06 03:20:21 -0400
 categories: seo
-image: social-media-icons.jpg
+image: search-engine-rankings-web-design.jpg
 ---
 
 Long gone are the days when getting your website to rank number 1 locally on Google was easy. These days, there are thousands of "hacks" to get your website to the #1 spot. So how do you manage all to figure out what actually works? Here at Avril, we study the latest SEO trends to make sure all of our websites are on top of their SEO game. Google and other search engines are constantly changing their algorithms and gathering more data than ever. Here are some of the top trends that we are seeing in 2018 SEO.
 
-![Social Media Icons]({{ "/images/social-media-icons.jpg" | absolute_url }})
+![Social Media Icons]({{ "/images/search-engine-rankings-web-design.jpg" | absolute_url }})
 
 ### 1. Increased Page Relevance
 
@@ -33,7 +33,6 @@ While we think of AI as some far-away and futuristic technology, it is actually 
 
 For example, Google has developed process to identify a user's intent, despite the presence of certain keywords. If Google sees that a user possesses trends that lead them to buy products online, they will direct this user to an e-commerce website instead of just a website with information. 
 
-How do we 
 
 
 
