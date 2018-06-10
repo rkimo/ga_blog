@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What Marketing Platform Rules Them All?"
-date:   2018-04-09 03:20:21 -0400
+date:   2018-05-05 03:20:21 -0400
 image: social-media-icons.jpg
 ---
 
