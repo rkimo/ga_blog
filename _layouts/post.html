@@ -182,7 +182,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <header class="s-header postsheader">
        
         <div class="header-logo">
-            <img src="/images/logo.png" style="width: 170px" alt="Avril Agency Logo">
+            <img src="{{ site.baseurl }}/images/logo.png" style="width: 170px" alt="Avril Agency Logo">
             <a class="site-logo" href="/index.html"> 
             </a>
         </div>
@@ -339,7 +339,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             {% for post in site.posts limit: 2 %}
             <li class="singlepost">
               
-                              <img src="/images/{{ post.image }}" class="excerptimg">
+                              <img src="{{ site.baseurl }}/images/{{ post.image }}" class="excerptimg">
                 
                 
                <a href="{{ post.url }}" class="h2 homeblogtitle">{{ post.title }}</a>
@@ -476,9 +476,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <!-- Java Script
     ================================================== -->
-    <script src="/js/jquery-3.2.1.min.js"></script>
-    <script src="/js/plugins.js"></script>
-    <script src="/js/main.js"></script>
+    <script src="{{ site.baseurl }}/js/jquery-3.2.1.min.js"></script>
+    <script src="{{ site.baseurl }}/js/plugins.js"></script>
+    <script src="{{ site.baseurl }}/js/main.js"></script>
 
 
 
